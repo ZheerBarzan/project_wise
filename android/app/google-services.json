@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955757872399",
+    "project_id": "project-wise-34cf4",
+    "storage_bucket": "project-wise-34cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955757872399:android:522b9820bf89d23481ea7a",
+        "android_client_info": {
+          "package_name": "com.example.project_wise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FYq-TwONW2ZYuiAcFlolLfHoIfvD9fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
